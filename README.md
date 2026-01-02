@@ -4,7 +4,6 @@ This project analyses patient data to assess the impact of smoking on organ heal
 # Dataset
 ## Patient Health & Smoking Risk Dataset
 * **Author:** Isaac Emmanuel
-* **Source:** [YouTube Link](https://www.youtube.com/watch?v=OgDq5GfUVrk)
 * **About:** This synthetic dataset is designed to analyze the impact of lifestyle factors, particularly smoking, on patient organ health. It contains individual patient records with demographic, behavioral, and clinical indicators, including smoking history, BMI, blood pressure risk, cholesterol, and family history. 
 
 # Objectives
