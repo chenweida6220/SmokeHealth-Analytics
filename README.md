@@ -14,7 +14,7 @@ This project analyses patient data to assess the impact of smoking on organ heal
 - [x] Synthesize actionable insights into an interactive dashboard for data-driven decision-making in preventive healthcare and patient education.
 
 # Dashboard
-![SmokeHealth Analysis Dashboard Walkthrough](/dashboard%20items/Smoking%20Risk%20Analysis%20dashboard%20walkthrough.gif)
+![SmokeHealth Analysis Dashboard Walkthrough](/dashboard%20items/Smoking%20Risk%20Analysis_dashboard%20walkthrough.gif)
 <table>
   <tr>
     <th>Organ</th>
